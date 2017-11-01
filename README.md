@@ -2,7 +2,7 @@
 ===========
 
  
- SLINGv.1 OS is invented by wilmix jemin j in CDollar P.L at year 2016.
+ SLINGv.1 OS is invented by wilmix jemin j in NJDollar P.L at year 2016.
 
 SLINGv.1 means WINDOWS,Bash  konsole, and SLING SLIDES.
 
